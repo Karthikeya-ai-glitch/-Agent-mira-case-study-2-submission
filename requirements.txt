@@ -1,0 +1,12 @@
+tqdm
+flaml[automl]
+matplotlib
+joblib
+flask
+flask-cors
+pandas
+numpy==1.26.4
+scikit-learn
+faiss-cpu==1.7.4
+gunicorn
+openpyxl
